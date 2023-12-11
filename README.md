@@ -39,9 +39,9 @@ Run the script from your terminal or command prompt:
 python GetWeath.py
 Follow the on-screen prompts to enter the city name and choose the unit of measurement.
 
-![GetWeath](GetWeath screenshot 1.png)
+![GetWeath](GetWeath_screenshot_1.png)
 
-![GetWeath](GetWeath screenshot 2.png)
+![GetWeath](GetWeath_screenshot_2.png)
 
 * Important Note on City Names
 When entering city names in the application, please note that some cities might have the same name but be located in different countries. To ensure accuracy in fetching weather data, specify the city name followed by a comma and the country code. For example:
@@ -52,4 +52,4 @@ When entering city names in the application, please note that some cities might 
 
 This notation helps the application to accurately identify the city and fetch the correct weather data.
 
-![GetWeath](GetWeath screenshot 3.png)
+![GetWeath](GetWeath_screenshot_3.png)
