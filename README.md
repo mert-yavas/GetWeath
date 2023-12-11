@@ -1,5 +1,5 @@
 # GetWeath
-Overview
+## Overview
 Hello, I am Mert. GetWeath is a standalone project designed to demonstrate the practical use of Python in creating a real-world weather query tool. It allows users to fetch current weather conditions and a five-day forecast for any city. The application is part of my ongoing efforts to enhance my programming skills and understanding of Python.
 
 ## Key Features
@@ -38,8 +38,8 @@ This project is designed to practice and showcase the following Python concepts:
 Run the script from your terminal or command prompt:
 python GetWeath.py
 Follow the on-screen prompts to enter the city name and choose the unit of measurement.
-![Metric weather data for Ankara](GetWeath screenshot 1.png)
-![Imperial weather data for London](GetWeath screenshot 2.png)
+![GetWeath](GetWeath screenshot 1.png)
+![GetWeath](GetWeath screenshot 2.png)
 * Important Note on City Names
 When entering city names in the application, please note that some cities might have the same name but be located in different countries. To ensure accuracy in fetching weather data, specify the city name followed by a comma and the country code. For example:
 
@@ -48,4 +48,4 @@ When entering city names in the application, please note that some cities might 
 > London,CA for London in Canada
 
 This notation helps the application to accurately identify the city and fetch the correct weather data.
-![Metric weather data for London,CA](GetWeath screenshot 3.png)
+![GetWeath](GetWeath screenshot 3.png)
